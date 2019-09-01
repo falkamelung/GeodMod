@@ -88,4 +88,6 @@ Again one more line from Mac
 
 Put a line in-between on Mac
 
+final line for rebasing test on fork/mac
+
 Again a line to checkout sqashing
