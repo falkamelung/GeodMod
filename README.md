@@ -90,4 +90,5 @@ Put a line in-between on Mac
 
 final line for rebasing test on fork/mac
 
+adding another line to fork
 Again a line to checkout sqashing
